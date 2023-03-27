@@ -1,0 +1,113 @@
+[
+  {
+    "id": 0,
+    "name": "Bettie Mack",
+    "email": "bettiemack@gaptec.com",
+    "phone": "(909) 524-3935",
+    "gender": "female",
+    "day": "1",
+    "month": "3",
+    "year": "1990"
+  },
+  {
+    "id": 1,
+    "name": "Carmela Vance",
+    "email": "carmelavance@gaptec.com",
+    "phone": "(964) 464-2821",
+    "gender": "female",
+    "day": "2",
+    "month": "3",
+    "year": "1991"
+  },
+  {
+    "id": 2,
+    "name": "Essie Greer",
+    "email": "essiegreer@gaptec.com",
+    "phone": "(887) 413-2320",
+    "gender": "female",
+    "day": "1",
+    "month": "4",
+    "year": "2000"
+  },
+  {
+    "id": 3,
+    "name": "Sanders Boone",
+    "email": "sandersboone@gaptec.com",
+    "phone": "(861) 489-3413",
+    "gender": "male",
+    "day": "10",
+    "month": "5",
+    "year": "2000"
+  },
+  {
+    "id": 4,
+    "name": "Tania Shaw",
+    "email": "taniashaw@gaptec.com",
+    "phone": "(876) 504-3213",
+    "gender": "female",
+    "day": "9",
+    "month": "3",
+    "year": "1995"
+  },
+  {
+    "id": 5,
+    "name": "Angelina Herring",
+    "email": "angelinaherring@gaptec.com",
+    "phone": "(826) 491-3804",
+    "gender": "female",
+    "day": "9",
+    "month": "2",
+    "year": "1993"
+  },
+  {
+    "id": 6,
+    "name": "Savannah Bowen",
+    "email": "savannahbowen@gaptec.com",
+    "phone": "(810) 488-3722",
+    "gender": "female",
+    "day": "11",
+    "month": "5",
+    "year": "1997"
+  },
+  {
+    "id": 7,
+    "name": "Rogers Ortega",
+    "email": "rogersortega@gaptec.com",
+    "phone": "(916) 566-3613",
+    "gender": "male",
+    "day": "11",
+    "month": "4",
+    "year": "1996"
+  },
+  {
+    "id": 8,
+    "name": "Oneill Gillespie",
+    "email": "oneillgillespie@gaptec.com",
+    "phone": "(939) 505-2290",
+    "gender": "male",
+    "day": "12",
+    "month": "6",
+    "year": "1993"
+  },
+  {
+    "id": 9,
+    "name": "Marguerite Pratt",
+    "email": "margueritepratt@gaptec.com",
+    "phone": "(871) 590-2174",
+    "gender": "female",
+    "day": "13",
+    "month": "2",
+    "year": "1994"
+  },
+  {
+    "id": 10,
+    "name": "Tisha Clay",
+    "email": "tishaclay@gaptec.com",
+    "phone": "(845) 518-2489",
+    "gender": "female",
+    "day": "13",
+    "month": "3",
+    "year": "1997"
+  }
+  
+]
